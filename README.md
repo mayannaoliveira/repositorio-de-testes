@@ -4,6 +4,9 @@ Agradeço sua compreensão.
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- start: YOUR_STARTER -->
 <!-- end: YOUR_STARTER -->
 
