@@ -5,6 +5,13 @@ Agradeço sua compreensão.
 ---
 
 <!--START_SECTION:waka-->
+```text
+Markdown     6 hrs 42 mins   ███████████████████████▓░   95.30 % 
+JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+```
 <!--END_SECTION:waka-->
 
 <!-- start: YOUR_STARTER -->
