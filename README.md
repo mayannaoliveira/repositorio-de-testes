@@ -4,10 +4,6 @@ Agradeço sua compreensão.
 
 ---
 
-<img src="https://wakatime.com/share/@mayannaoliveira/d7c6f622-0d59-43cb-80c9-f68b4f58fb3c.svg"/>
-
----
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -16,3 +12,11 @@ Agradeço sua compreensão.
 
 <!--START_SECTION:Chess-->
 <!--END_SECTION:Chess-->
+
+---
+
+<img src="https://wakatime.com/share/@mayannaoliveira/5b1c6181-ae2a-4ff0-b66a-a2938c8f294e.svg"/>
+
+<img src="https://wakatime.com/share/@mayannaoliveira/d7c6f622-0d59-43cb-80c9-f68b4f58fb3c.svg"/>
+
+---
