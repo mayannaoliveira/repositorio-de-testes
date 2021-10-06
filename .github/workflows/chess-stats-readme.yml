@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: Prathamesh-B/chess-stats-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GIST_TOKEN }}
           CHESS_USERNAME: mayannait
