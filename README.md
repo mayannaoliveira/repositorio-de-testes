@@ -1,9 +1,11 @@
-# repositorio-de-testes
-Somente para testes
+# Repositório de Testes
+Esse repositório pode ser deletado a qualquer momento, sua função é só testar o funcionamento de algumas ações. 
+Agradeço sua compreensão.
 
-This is my fancy README
+---
 
-<!-- start: YOUR_STARTER -->...the list will be added here...<!-- end: YOUR_STARTER -->
+<!-- start: YOUR_STARTER -->
+<!-- end: YOUR_STARTER -->
 
-Your README continues after the list
-
+<!--START_SECTION:Chess-->
+<!--END_SECTION:Chess-->
