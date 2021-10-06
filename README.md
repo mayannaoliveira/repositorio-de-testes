@@ -4,6 +4,10 @@ Agradeço sua compreensão.
 
 ---
 
+<img src="https://wakatime.com/share/@mayannaoliveira/d7c6f622-0d59-43cb-80c9-f68b4f58fb3c.svg"/>
+
+---
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
