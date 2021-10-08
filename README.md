@@ -6,8 +6,8 @@ Agradeço sua compreensão.
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   6 hrs 6 mins    ██████████████████████▓░░   90.96 % 
-YAML       36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Markdown   4 hrs 51 mins   ██████████████████████▒░░   88.90 % 
+YAML       36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
 ```
 <!--END_SECTION:waka-->
 
