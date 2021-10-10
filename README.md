@@ -6,8 +6,10 @@ Agradeço sua compreensão.
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   4 hrs 51 mins   ██████████████████████▒░░   88.90 % 
-YAML       36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Other      1 hr 12 mins    ████████▒░░░░░░░░░░░░░░░░   33.29 % 
+Markdown   1 hr 9 mins     ████████░░░░░░░░░░░░░░░░░   31.99 % 
+Bash       38 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.88 % 
+YAML       36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.83 % 
 ```
 <!--END_SECTION:waka-->
 
