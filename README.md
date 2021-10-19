@@ -6,7 +6,9 @@ Agradeço sua compreensão.
 
 <!--START_SECTION:waka-->
 ```text
-Bash   6 mins          █████████████████████████   100.00 % 
+Markdown   1 hr 6 mins     █████████████████████░░░░   84.42 % 
+Bash       6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Other      5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 ```
 <!--END_SECTION:waka-->
 
